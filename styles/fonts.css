@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Jakarta';
+    src: url('../public/jakarta.ttf') format('truetype');
+}
+
+/* Aplicar la fuente personalizada */
+body {
+    font-family: 'Jakarta', sans-serif;
+}
